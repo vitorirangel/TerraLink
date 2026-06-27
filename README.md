@@ -49,3 +49,7 @@ O sistema realiza a leitura analógica (0 a 4095) e mapeia os valores para uma e
 * **✅ Entre 31% e 60% de umidade:** `SOLO IDEAL` -> Condições ótimas para o cultivo.
 * **🌊 Acima de 60% de umidade:** `SOLO MUITO ÚMIDO` -> Alerta para evitar superidratação.
 
+# Autores
+Luigi Gusmão,
+Vítori Rangel 
+
