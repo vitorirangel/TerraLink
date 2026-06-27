@@ -33,7 +33,7 @@ O projeto foi estruturado utilizando os seguintes componentes:
 | **Botão Físico** | GPIO 25 | Entrada Digital com Interrupção (Fallback) |
 
 
-#Tecnologias e Softwares Utilizados
+# Tecnologias e Softwares Utilizados
 
 * **Linguagem:** C++ 
 * **Conectividade:** Protocolo Wi-Fi (Biblioteca `WiFi.h`)
@@ -41,7 +41,7 @@ O projeto foi estruturado utilizando os seguintes componentes:
 * **Banco de Dados / Backend:** Supabase (Integração via API RESTful)
 
 
-# Regras de Classificação
+#Classificação
 
 O sistema realiza a leitura analógica (0 a 4095) e mapeia os valores para uma escala percentual de **0% a 100%**. A tomada de decisão local segue os seguintes parâmetros:
 
