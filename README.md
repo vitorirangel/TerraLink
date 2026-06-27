@@ -46,8 +46,8 @@ O projeto foi estruturado utilizando os seguintes componentes:
 
 O sistema realiza a leitura analógica (0 a 4095) e mapeia os valores para uma escala percentual de **0% a 100%**. A tomada de decisão local segue os seguintes parâmetros:
 
-* **💧 Até 30% de umidade:** `SOLO SECO` -> Alerta de necessidade de irrigação.
-* **✅ Entre 31% e 60% de umidade:** `SOLO IDEAL` -> Condições ótimas para o cultivo.
-* **🌊 Acima de 60% de umidade:** `SOLO MUITO ÚMIDO` -> Alerta para evitar superidratação.
+* ** Até 30% de umidade:** `SOLO SECO` -> Alerta de necessidade de irrigação.
+* ** Entre 31% e 60% de umidade:** `SOLO IDEAL` -> Condições ótimas para o cultivo.
+* ** Acima de 60% de umidade:** `SOLO MUITO ÚMIDO` -> Alerta para evitar superidratação.
 
 
